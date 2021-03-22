@@ -3,19 +3,19 @@
 This is our final project
 
 Created by:
-Hyun Guk Yoo
-Jorge Cancino
-Shivam Sharma 
+Hyun Guk Yoo,
+Jorge Cancino,
+Shivam Sharma, 
 Marin Budic
 
-imports
-	pygame	(need to be installed)
-	yaml	(might need to be installed)
-	random
-	itertools
-	dataclasses
-	mathplotlib
-	numpy
+imports:
+1. pygame	(need to be installed)
+2. yaml	(might need to be installed)
+3. random
+4. itertools
+5. dataclasses
+6. mathplotlib
+7. numpy
 
 Using Reinforcement Learning with Snake
 
